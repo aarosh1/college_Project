@@ -1,0 +1,21 @@
+Instructio to run this application:
+- Locate this application inside the c:/xampp/htdocs
+- Create database: db_funolympics
+- Find out sql folder and get 'db_funolympics.sql' file 
+- Then, import into final database
+Run the site, 
+localhost/(file name where this project was saved)
+
+Login to Admin Panel: 
+- Browse: localhost/finalproject/admin
+- username: roshan@gmail.com 
+- password: 1234 
+- add post
+-add video
+-add-photo
+-view comment
+-view booking
+- update gallery
+- view reservation
+ 
+
